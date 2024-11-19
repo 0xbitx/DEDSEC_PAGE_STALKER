@@ -11,7 +11,7 @@ PAGE_STALKER is a powerful Linux-based tool specifically designed to take screen
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_PAGE_STALKER.git
     * cd DEDSEC_PAGE_STALKER
-    * sudo pip3 install selenium webdriver-manager
+    * pip3 install selenium webdriver-manager
     * chmod +x dedsec_page_stalker
     * ./dedsec_page_stalker
 
