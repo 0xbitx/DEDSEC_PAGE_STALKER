@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ0a2lhZXk5OWdrOHF0aHZwaGUwM3g1cGhoOGNlNDZ0bHppdmJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rPjtjF9RwT9jbbUcBU/giphy.webp", width="300", height="300">
+<img src="https://media1.giphy.com/media/v1.Y2lkPc5MGI3NjExcmZ0a2lhZXk5OWdrOHF0aHZwaGUwM3g1cGhoOGNlNDZ0bHppdmJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rPjtjF9RwT9jbbUcBU/giphy.webp", width="300", height="300">
 </p>
 
 <h2 align="center">DEDSEC_PAGE_STALKER</h2>
@@ -19,6 +19,11 @@ PAGE_STALKER is a powerful Linux-based tool specifically designed to take screen
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
+
+## Features list
+- [x] scroll on page
+- [x] loading page delay
+- [ ] use proxy every request
 
 ## Support
 
